@@ -1,1 +1,1 @@
-# fundamenta-python
+# fundamental-python
